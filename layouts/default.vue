@@ -58,4 +58,14 @@ div.layout > section.content {
   min-height: calc(100vh - 72px);
   padding: 36px 23% 0 18%;
 }
+
+@media only screen and (max-width: 1024px) {
+  div.layout > section.flex-column > div.flex-row {
+    display: none;
+  }
+
+  div.layout > section.content {
+    padding: 36px 6% 0 1%;
+  }
+}
 </style>

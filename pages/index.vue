@@ -11,110 +11,57 @@
       <p class="tags">Nouveau , tendance , maquillage - maquillage - teint</p>
 
       <BaseHeader html-type="h1">
-        Tarte nous offre une version ultra creamy du shape tape !</BaseHeader
+        Armani nous offre une version longue tenue du mascara !</BaseHeader
       >
 
-      <BaseHeader html-type="h2"
-        >Vous aimez le classique Shape Tape™ de Tarte, cet anticernes mat,
-        agréable à appliquer et redoutable pour cacher nos cernes et illuminer
-        notre regard ? Vous allez adorer sa nouvelle version Shape Tape™ Ultra
-        Creamy : une formule crémeuse capable d’hydrater et lisser la peau.
-        Attention les yeux !</BaseHeader
+      <BaseHeader html-type="h2">
+        Volumateur et allongeant, le mascara Eyes to kill arme plus que jamais
+        le regard d'une intensité détonnante. En un seul coup de maître, obtenez
+        un volume aérien, un allongement extrême et une définition considérable,
+        avec un résultat longue tenue</BaseHeader
       >
 
       <div class="flex-column">
-        <img src="~/assets/img/shape-tape-2.jpg" alt="shape tape" />
+        <img src="~/assets/img/shape-tape-2.jpg" alt="shape tape" width="800" />
         <BaseHeader html-type="h3"
-          >SHAPE TAPE™ ULTRA CREAMY : L’ANTICERNES QUI APPORTE 24H D’HYDRATATION
-          !</BaseHeader
+          >ARMANY EYES TO KILL : LE MASCARA QUI DONNE DES CILS SUPER VOLUMINEUX
+          SANS EFFET PAQUET !</BaseHeader
         >
       </div>
 
       <BaseParagraph
-        >Shape Tape™ Ultra Creamy de Tarte présente les mêmes atouts que son
-        Shape Tape™ classique : une couvrance totale, ultra facile à s’estomper,
-        qui illumine la peau en dissimulant les cernes, les rougeurs et autres
-        imperfections. Comme lui, il ne file pas, ne s’écaille
-        pas...</BaseParagraph
+        >Le mascara Eyes to Kill de Giorgio Armani révèle l'intensité de votre
+        regard en un coup de maître. Grâce à sa brosse unique et à sa texture
+        fluide,ce mascara galbe,donne du volume et allonge chaque cil sans pour
+        un volume longue tenue. Fluide et légère,la texture issue de la
+        technologie Micro-fil™ Giorgio Armani enrobe les cils tout en
+        légèreté,pour les étirer et les allonger à l'infini. Le résultat est
+        aérien,"ce mascara n'alourdit pas les cils et se fait oublier. La
+        matière chargée sur la brosse ""lash liner"" est déposée sur les cils en
+        un seul passage. L'application modulable vous permet d'obtenir un
+        résultat sur mesure",en un ou plusieurs coups de brosse.</BaseParagraph
       >
 
       <BaseParagraph>
-        Ce qui le distingue ? Sa formule pour commencer : elle intègre une
-        hydratation 24h (cliniquement prouvée !). Sa texture pour continuer :
-        elle se révèle divinement crémeuse. Quelle que soit la couleur parmi les
-        18 teintes disponibles, le fini est toujours aussi mat et naturel mais
-        il est encore plus confortable, surtout quand on a la peau sèche ou des
-        rides et ridules à camoufler : Shape Tape™ Ultra Creamy est sans effet
-        masque, ni pli. La peau est fraîche, lumineuse, ultra liftée et lissée.
-        Bluffant !
+        Un volume et un allongement intense qui dure 24 heures,vous en
+        réviez,Giorgio Armani l'a fait pour vous grâce à son meilleur mascara.
+        Eyes to Kill déploie votre regard intensément,avec une définition proche
+        de la perfection. Les cils sont séparés,domptés un à un par la brosse
+        qui les allonge et les étire intensément,en un geste maîtrisé. La
+        formule volumisante étoffe les cils,tout en vous offrant une extension
+        haute définition. Le regard est ainsi intensifié,il paraît plus
+        grand,plus profond,encore plus mystérieux.
       </BaseParagraph>
-
-      <BaseHeader html-type="h3"
-        >SHAPE TAPE™ ULTRA CREAMY : UN MÉLANGE D’INGRÉDIENTS
-        NATURELS</BaseHeader
-      >
-
-      <BaseParagraph
-        >Comme à son habitude, Tarte est allée puisée dans les ingrédients
-        d’origine naturelle pour concevoir ce correcteur à la fois make-up et
-        soin. On retrouve :</BaseParagraph
-      >
-
-      <ul>
-        <li>La figue de barbarie, un incroyable antioxydant et hydratant.</li>
-        <li>
-          La racine de réglisse. Un des secrets du Shape Tape™ classique pour
-          illuminer.
-        </li>
-        <li>
-          La mangue, l’avocat et le beurre de karité. Eux aussi sont déjà
-          présents dans la version originale. Mais on ne s’en passe pas pour
-          hydrater et nourrir !
-        </li>
-        <li>
-          L’acide hyaluronique et l’hyaluronane de sodium qui hydratent, lissent
-          et liftent l’apparence de la peau.
-        </li>
-        <li>La cétone de framboise pour donner un effet repulpé.</li>
-        <li>
-          Un mélange de vegan squalène et ginseng qui aide à rendre la peau plus
-          ferme et rebondie mais aussi à minimiser l’apparence des rides et
-          ridules, sans plis... pendant 12 heures !
-        </li>
-      </ul>
-
-      <BaseParagraph
-        >Et bien sûr, comme tous les produits Tarte, le Shape Tape™ Ultra Creamy
-        est formulé sans huiles minérales, phtalates, triclosan, sulfate de
-        laurier de sodium et gluten. Ça fait du bien...</BaseParagraph
-      >
 
       <div class="flex-column">
         <img src="~/assets/img/Tarte_collection.jpg" alt="tarte collection" />
         <BaseHeader html-type="h3"
-          >ELLES AIMENT LE SHAPE TAPE™ ULTRA CREAMY !</BaseHeader
+          >ELLES AIMENT LE MASCARA ARMANI EYES TO KILL !</BaseHeader
         >
       </div>
 
       <BaseParagraph
-        >Le mieux est de donner la parole à celles qui l’ont essayé. Suite à une
-        étude, 100% des participants ont confirmé que Shape Tape™ Ultra Creamy
-        :</BaseParagraph
-      >
-
-      <ul>
-        <li>Rend la peau plus lisse (y compris le contour des yeux !).</li>
-        <li>N’assèche pas la peau et ne laisse pas un effet masque.</li>
-        <li>Couvre les imperfections et les cernes.</li>
-        <li>Apporte un éclat naturel.</li>
-      </ul>
-
-      <BaseParagraph
-        >On a gardé le meilleur pour la fin : il donne un regard éclatant comme
-        après une bonne nuit de sommeil !</BaseParagraph
-      >
-      <BaseParagraph
-        >Vous savez tout sur Tarte, le Shape Tape™ Ultra Creamy ! Pour ne rien
+        >Vous savez tout sur Eyes to kill, le mascara Armani ! Pour ne rien
         rater de nos autres nouveautés, rendez-vous sur notre chaine
         <span>Youtube</span> et notre <span>page Facebook</span>.</BaseParagraph
       >
@@ -169,5 +116,11 @@ article > section.content > ul {
 
 article > section.content > p > span {
   color: #d7002c;
+}
+
+@media only screen and (max-width: 1024px) {
+  article > div.breadcrumb {
+    display: none;
+  }
 }
 </style>
